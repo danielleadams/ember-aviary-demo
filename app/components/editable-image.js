@@ -1,7 +1,7 @@
 import Ember from 'ember';
 
 export default Ember.Component.extend({
-  url: 'https://d3ho3otgz9xnie.cloudfront.net/image_files/tokyo/2/2f2cb970-d88b-4fa2-bc61-34216cdc9f03.JPG?1427241267',
+  url: 'http://1.media.collegehumor.cvcdn.com/59/27/7a9d1c0082699e19232f1d6ffda092b2-dogpoop2.jpg',
   image: null,
 
   didInsertElement: function() {
